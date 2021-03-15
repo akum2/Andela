@@ -1,0 +1,33 @@
+input{
+	
+	width: 200px;
+	border-style: solid;
+	border-color: green;
+	color: red;
+	font-family: arial;
+}
+p{
+	font-size: 30px;
+	color: #f1f1f1;
+}
+label{
+	color: red;
+}
+img{
+	width: 200px;
+	height: 230px;
+	position: absolute;
+	top: 10px;
+	left: 400px;
+	z-index: -1;
+	background-attachment: inherit;
+}
+body{
+	background-color: blue;
+	width: 30%;
+	margin: 200px 500px;
+}
+h2{
+	text-align: center;
+
+}
